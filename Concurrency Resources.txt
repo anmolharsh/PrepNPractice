@@ -12,4 +12,11 @@ Cornell - https://www.cs.cornell.edu/courses/cs4410/2010fa/synchreview.pdf
 iitD - https://www4.comp.polyu.edu.hk/~csajaykr/myhome/teaching/eel602/Problem.htm
 Further Slides - https://www.cs.sjtu.edu.cn/~fwu/teaching/res/CS307-slides06.pdf
 
+Misc Must:
+https://www.cs.utexas.edu/~rossbach/cs380p/lectures/06-Conditions+Barriers.pdf
 
+
+Nodes:
+- Semaphores, Mutex
+- DSA with multithreading
+- Barriers impl. + Ques
