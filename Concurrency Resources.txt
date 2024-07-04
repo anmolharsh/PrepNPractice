@@ -6,6 +6,7 @@ LeetCode
 Lint code - for questions (if any hack to submit answers or view discussions)
 LittleBookOfSemaphores pdf
 https://github.com/ristes/synchronization-examples/tree/master/src/mk/ukim/finki/os/synchronization/exam16/k1/g2
+https://github.com/kirksaunders/barrier/blob/master/barrier.hpp
 
 Berkley Qeus - https://people.eecs.berkeley.edu/~kubitron/courses/cs162-F07/hand-outs/synch-problems.html
 Cornell - https://www.cs.cornell.edu/courses/cs4410/2010fa/synchreview.pdf
